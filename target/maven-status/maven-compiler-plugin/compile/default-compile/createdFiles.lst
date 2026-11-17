@@ -1,0 +1,4 @@
+com\exam\tourist\repository\TouristRepository.class
+com\exam\tourist\TouristApplication.class
+com\exam\tourist\model\Tourist.class
+com\exam\tourist\controller\TouristController.class
